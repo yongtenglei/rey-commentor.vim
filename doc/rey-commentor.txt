@@ -1,0 +1,50 @@
+*reycommentor.txt*         Plugin for commenting code
+*reycommentor*
+
+
+                        REY COMMENTOR REFERENCE MANUAL
+
+
+
+
+
+==============================================================================
+CONTENTS                                               *REYCommentorContents*
+
+    1. Intro...................................|REYCommentor|
+        1.1 Aim............................|REYCommentorAim|
+    2. Features............................|REYCommentorFeatures|
+        2.1 Handle no indent situation.....|REYCommentorNoIndent|
+        2.2 Add counter before your mapping ......|REYCommentorAddCounter|
+        2.3 Comment code in Visual mode......|REYCommentorCommentInVM|
+
+
+==============================================================================
+1. Intro                                                       *REYCommentor*
+
+The REY commentor provides only one file type which is python but with various feature for you to comment your code.
+
+------------------------------------------------------------------------------
+1.1 Aim                                                      *REYCommentorAim*
+
+Only for learning and enjoying.
+
+==============================================================================
+2. Features                                             *REYCommentorFeatures*
+
+There are various features help you comment your code.
+
+------------------------------------------------------------------------------
+2.1 Handle no indent situation                          *REYCommentorNoIndent*
+
+------------------------------------------------------------------------------
+2.2 Add counter before your mapping                   *REYCommentorAddCounter*
+
+------------------------------------------------------------------------------
+2.3 Comment code in Visual mode                       *REYCommentorCommentInVM*
+
+
+
+
+
+
